@@ -36,7 +36,7 @@ After installation, run `npm install` and then run `npm start` which will open u
 
 You must have npm and Gulp installed globally on your machine in order to use these features.
 
-## Bugs and Issues
+## Known bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-bare/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/bare/).
 
